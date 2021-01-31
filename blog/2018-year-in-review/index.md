@@ -43,18 +43,18 @@ order: 8
 - 디자이너도 만드는 Jekyll Blog - 마지막 편 '본격적으로 Jekyll Theme 커스터마이징하기' 글을 올렸다.
   - 나름대로 연재한 글이었는데 마무리를 해냈다. 최근에 스포카 디자인 팀에서 지킬 블로그를 만들 때 이 시리즈를 참고해주셨다고 말해주셔서 더 기뻤다!
 
-[본격적으로 Jekyll Theme 커스터마이징하기 🔗](http://jihyeleee.com/blog/third-designer-can-make-jekyll-blog/)
+[본격적으로 Jekyll Theme 커스터마이징하기 🔗](https://jihyeleee.com/blog/third-designer-can-make-jekyll-blog/)
 
 # 5월
 
-![이미지로 멋지게 공유하기](http://jihyeleee.com/project/highlight-img-share/img/card.jpg)
+![이미지로 멋지게 공유하기](https://jihyeleee.com/project/highlight-img-share/img/card.jpg)
 
 ## ✍️ 글쓰기
 
 - 블로그에 `Coming Soon` 태그를 만들고 이미지 멋지게 형광펜 공유하기 draft를 올렸다.
   - 아직도 draft 상태라니 😱 계속 쓰고 있긴 한데 진도가 안 나간다. 반성해야겠다. 너무 잘 쓰려고 하지 말고 대충이라도 써서 올리자.
 
-[이미지로 멋지게 형광펜 공유하기 draft 🔗](http://jihyeleee.com/project/highlight-img-share/?fbclid=IwAR15H58VZTk1ram2_euzrxWS4z0mEdjXXxg1JAknDNiLXQJ9zS0TU0jTKK4)
+[이미지로 멋지게 형광펜 공유하기 draft 🔗](https://jihyeleee.com/project/highlight-img-share/?fbclid=IwAR15H58VZTk1ram2_euzrxWS4z0mEdjXXxg1JAknDNiLXQJ9zS0TU0jTKK4)
 
 [dribbble에서 보기 🏀](https://dribbble.com/shots/4407823-Here-s-Coming-Soon-Message-for-Post-Draft)
 
@@ -86,7 +86,7 @@ order: 8
 - 최근 읽은 콘텐츠 7월 편을 처음으로 업로드했다.
   - 쉼 없이 레퍼런스와 아티클을 찾아서 인스타페이퍼(Instapaper) 쌓기를 좋아한다. 쌓기만 하다 보니 어떤 구절에서 어떤 인사이트를 얻었는지는 기억하기 어려웠다. 그래서 하나의 글로 모아서 어떤 구절에서 어떤 인사이트를 얻었는지 적으면 좋겠다는 생각을 했다. 돌이켜 보니 귀찮기는 하지만 그냥 인스타페이퍼에 쌓는 것보단 훨씬 좋은 것 같다.
 
-[최근 읽은 콘텐츠 - 2018 July 🔗](http://jihyeleee.com/blog/july-recent-article-i-read/?fbclid=IwAR26ZvMh-Mljke-bogj2qYrM0_QJd7l0ScQhoMh2NjuLNUFjxoVDBLTSON4)
+[최근 읽은 콘텐츠 - 2018 July 🔗](https://jihyeleee.com/blog/july-recent-article-i-read/?fbclid=IwAR26ZvMh-Mljke-bogj2qYrM0_QJd7l0ScQhoMh2NjuLNUFjxoVDBLTSON4)
 
 # 8월
 
@@ -102,7 +102,7 @@ order: 8
 - 최근 읽은 콘텐츠 8월 편을 업로드했다.
   - 디지털 프로덕트 디자인 외에도 내가 읽고 있는 다양한 분야의 글을 올렸다.
 
-[최근 읽은 콘텐츠 - 2018 August 🔗](http://jihyeleee.com/blog/aug-recent-article-i-read/)
+[최근 읽은 콘텐츠 - 2018 August 🔗](https://jihyeleee.com/blog/aug-recent-article-i-read/)
 
 # 9월
 

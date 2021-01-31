@@ -69,13 +69,13 @@ order: 9
 
 ## ✍️ 이미지 멋지게 형광펜 공유하기 글 업로드
 
-1월에 시작한 포트폴리오 모임을 통해 [이미지로 멋지게 형광펜 공유하기](http://jihyeleee.com/project/highlight-img-share/) 글을 쓰고 올릴 수 있었다! ~~(그리고 그 이후 글은 없었다고 한다.)~~
+1월에 시작한 포트폴리오 모임을 통해 [이미지로 멋지게 형광펜 공유하기](https://jihyeleee.com/project/highlight-img-share/) 글을 쓰고 올릴 수 있었다! ~~(그리고 그 이후 글은 없었다고 한다.)~~
 
 처음 글을 쓰겠다고 결심했던 게 작년 5월이었는데 무려 10개월 뒤에야 올릴 수 있었다. 어떻게 보면 게으르다고 볼 수 있다. 하지만 이렇게 가늘고 길게 계속해서 결국은 해내는 게 내 장점이라고 생각한다.
 
 내년엔 또 어떤 글을 10개월에 걸쳐 써낼지 궁금하다. 👀
 
-<a href="http://jihyeleee.com/project/highlight-img-share/">![이미지 멋지게 공유하기](http://jihyeleee.com/project/img/ridi-highlight.jpg)</a>
+<a href="https://jihyeleee.com/project/highlight-img-share/">![이미지 멋지게 공유하기](https://jihyeleee.com/project/img/ridi-highlight.jpg)</a>
 
 ## 📘 2월에 읽은 책
 
@@ -277,7 +277,7 @@ Sketch는 오프라인이 디폴트고 로컬에서 파일을 쌓아서 쓰는 �
 
 안식년이라고 생각했는데 회고를 적다 보니 블로그 글만 안 썼지 생각보다 많은 걸 해낸 2019년인 것 같다. ~~(블로그에만 소홀했던 것 같다.)~~  매번 교훈이나 결심으로 글이 끝나면 안 되지만 내년에는 디자인 관련 글이 아니더라도 가볍게 블로그 글을 많이 남기고 싶다.
 
-(2019년에 읽은 리디북스, 리디셀렉트 책들은 [이 링크](http://jihyeleee.com/book/2019-books-i-read/)를 누르면 볼 수 있다.) 
+(2019년에 읽은 리디북스, 리디셀렉트 책들은 [이 링크](https://jihyeleee.com/book/2019-books-i-read/)를 누르면 볼 수 있다.) 
 
 ![hello 2020, bye-bye 2019](img/2020.jpg)
 

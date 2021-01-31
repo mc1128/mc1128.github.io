@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Jihye Leee
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "https://www.jihyeleee.com"
 
 # Assets
 sass:
@@ -17,10 +17,10 @@ markdown:       kramdown
 # About
 author:
   name:         Jihye Leee
-  url:          http://jihyeleee.com/
+  url:          https://jihyeleee.com/
   email:        iam.leejihye@gmail.com  
   github:       iamleejihye
-  twitter:      playpingpong
+  twitter:      hitchhikerj
 
 # Custom vars
 version:        3.4.1
