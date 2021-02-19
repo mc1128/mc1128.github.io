@@ -1,0 +1,14 @@
+third-place:
+  - name: 경주 동국대학교
+    role: 컴퓨터공학과 졸업
+    date: 2015. MAR - 2021. FEB
+
+second-place:
+  - name: 병역
+    role: 만기전역
+    date: 2016. DEC - 2018. SEP
+
+first-place:
+  - name: 국비
+    role: Java Web Developer Class
+    date: 2021. FEB - 2021. JUL

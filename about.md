@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Jihye Leee"
-subtitle: "이지혜"
+title: "MinCheol Hwang"
+subtitle: "황민철"
 type: "About"
-author: "Jihye Lee"
+author: "MinCheol Hwang"
 permalink: /about/
 post-header: true
 header-img: img/about.jpg
@@ -12,6 +12,7 @@ header-img: img/about.jpg
 UX 에이전시 GUI 디자이너를 거쳐 RIDI에서 6년 가까이 일했습니다. 디자이너에게 코딩을 알려주는 코딩하는 디자이너라는 프로그램을 운영하고 브랜딩하기도 했습니다. 더 좋은 디자인 문화 만들기와 디자이너의 글쓰기에 관심이 많습니다.
 
 # Media
+
 ### Design Spectrum의 팟캐스트 Design Table
 
 - Design Table Ep 19. `끊임없이 배우는 디자이너`

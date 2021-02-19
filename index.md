@@ -1,18 +1,24 @@
 ---
 layout: default
-title: "Jihye Leee"
+title: "Mincheol Hwang"
 main: true
-subtitle: Digital Product Designer Jihye Leee
-description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다.
+subtitle: WEB DEVELOPER. Mincheol Hwang
+description: Mincheol Hwang, who is a WEB DEVELOPER based in Seoul, South Korea. | '황민철' 웹 개발자 입니다.
 ---
+
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    I'm MinCheol Hwang,
     </h1>
-    <h1 class="intro">a Digital Product Designer.
+    <h1 class="intro">a WEB DEVELOPER.
     </h1>
-    <h2 class="intro">프로덕트 디자이너 이지혜입니다.</h2>
+    <h2 class="intro">웹 개발자 황민철입니다.</h2>
 </section>
 </div>
+<div class="profile">
+<img src="img/profile.jpg" class="profile-image">
+</div>
+<div class="clear"></div>
+
 {% include resume.html %}

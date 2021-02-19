@@ -1,28 +1,28 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink: /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
-baseurl:        ""
-url:            "https://www.jihyeleee.com"
+title: Mincheol Hwang
+baseurl: ""
+url: ""
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        :compressed
+  sass_dir: _sass
+  style: :compressed
 
 # Build settings
-markdown:       kramdown
+markdown: kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          https://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      hitchhikerj
+  name: Mincheol Hwang
+  url: https://mi1128.github.io/
+  email: mc8580@gmail.com
+  github: mc1128
+  twitter: mc1128
 
 # Custom vars
-version:        3.4.1
+version: 3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo: https://github.com/mc1128/mc1128.github.io
