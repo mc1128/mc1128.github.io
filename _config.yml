@@ -3,8 +3,8 @@ permalink: /:year-:month-:day/:title
 
 # Setup
 title: Mincheol Hwang
-baseurl: ""
-url: ""
+baseurl: ''
+url: ''
 
 # Assets
 sass:
@@ -35,3 +35,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# category_list
+categories: [test]
