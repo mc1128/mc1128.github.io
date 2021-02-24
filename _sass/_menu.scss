@@ -1,0 +1,14 @@
+.progress-bar {
+  background: linear-gradient(
+    to right,
+    $emoji-blue var(--scroll),
+    transparent 0
+  );
+  background-repeat: no-repeat;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0;
+  height: 5px;
+  z-index: 9000;
+}

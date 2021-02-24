@@ -9,6 +9,10 @@ author: "Minchoel Hwang"
 post-header: true
 header-img: "img/android-device.jpg"
 order: 1
+category : test
+tags:
+- tag_test
+
 ---
 
 # 낯선 생활, 낯선 환경

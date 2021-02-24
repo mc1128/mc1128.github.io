@@ -26,3 +26,12 @@ author:
 version: 3.4.1
 github:
   repo: https://github.com/mc1128/mc1128.github.io
+
+#menu
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/

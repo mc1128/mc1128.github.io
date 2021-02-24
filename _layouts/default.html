@@ -4,7 +4,27 @@
   {% include head.html %}
 
   <body>
-      {% assign current = page.url | downcase | split: '/' %}
+  <!-- This is the bar which shows scroll percentage -->
+    <div class="progress-bar"></div>
+
+
+    <!-- Script used to generate --scroll variable with current scroll percentage value -->
+    <script>
+    var element = document.documentElement,
+        body = document.body,
+        scrollTop = 'scrollTop',
+        scrollHeight = 'scrollHeight',
+        progress = document.querySelector('.progress-bar'),
+        scroll;
+
+        document.addEventListener('scroll', function() {
+        scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
+        progress.style.setProperty('--scroll', scroll + '%');
+        });
+    </script>
+    <!-- 하단 진행바 끝 출처: https://blog.webjeda.com/top-bar-website/#scroll-percentage-top-bar -->  
+      
+  {% assign current = page.url | downcase | split: '/' %}
       <nav class="nav">
         <div class="nav-container">
             <ul>

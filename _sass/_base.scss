@@ -29,24 +29,24 @@ h3,
 h4,
 h5,
 h6 {
-    line-height: normal;
-    margin: 0;
+  line-height: normal;
+  margin: 0;
 }
 
 h2 {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 a {
   color: $grey-0;
-    text-decoration: none;
+  text-decoration: none;
 }
 
 blockquote {
-  border-left: .25rem solid $grey-2;
+  border-left: 0.25rem solid $grey-2;
   color: $grey-1;
-  margin: .8rem 0 1rem 0;
-  padding: .5rem 1rem;
+  margin: 0.8rem 0 1rem 0;
+  padding: 0.5rem 1rem;
 
   p:last-child {
     margin-bottom: 0;
@@ -68,21 +68,21 @@ td {
 }
 
 .transition {
-    transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 ::selection {
-    background: $purple;
-    color: #FFF;
-    text-shadow: none;
+  background: $purple;
+  color: #fff;
+  text-shadow: none;
 }
 ::-moz-selection {
-    background: $purple;
-    color: #FFF;
-    text-shadow: none;
+  background: $purple;
+  color: #fff;
+  text-shadow: none;
 }
 ::-webkit-selection {
-    background: $purple;
-    color: #FFF;
-    text-shadow: none;
+  background: $purple;
+  color: #fff;
+  text-shadow: none;
 }
