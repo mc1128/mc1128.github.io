@@ -1,6 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
-vender
+vendor
 Gemfile
 Gemfile.lock
