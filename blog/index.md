@@ -7,14 +7,14 @@ project-header: true
 header-img: img/about.jpg
 ---
 
-<script type="text/javascript" src="../js/tag.js"></script>
-
+<div>
 {% for tag in site.data.tags %}
 <span class="tag" id="tagtest" data-tag="{{tag}}">
 {{ site.data.format[tag] }}
 </span>
-
 {% endfor %}
+</div>
+<hr>
 
 <ul class="catalogue">
 {% assign sorted = site.pages | sort: 'order' | reverse %}
