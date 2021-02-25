@@ -10,7 +10,7 @@ header-img: img/about.jpg
 <script type="text/javascript" src="../js/tag.js"></script>
 
 {% for tag in site.data.tags %}
-<span class="tag" data-tag="{{tag}}">
+<span class="tag" id="tagtest" data-tag="{{tag}}">
 {{ site.data.format[tag] }}
 </span>
 

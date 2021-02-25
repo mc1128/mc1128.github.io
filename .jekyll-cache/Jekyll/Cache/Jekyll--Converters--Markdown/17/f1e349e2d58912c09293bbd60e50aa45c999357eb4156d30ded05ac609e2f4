@@ -1,0 +1,65 @@
+I"�
+<p>사실 Java의 기초적인 내용을 배워서 수업이 많이 어렵거나 따라가기 벅차거나 하지는 않았다. (<del>전공자인데 어려워 하는게 이상할지도</del>), 그래서 강사님이 설명해주시는 내용을 요약 정리를 하고, 다시한번 리마인딩하는 느낌으로 수업을 듣고있다.</p>
+
+<blockquote>
+  <p>비전공자분들도 같이 수업을 듣기에 차근차근 설명해주시는 것 같다.</p>
+</blockquote>
+
+<h1 id="1장-java의-기초">1장 Java의 기초</h1>
+
+<blockquote>
+  <p>콘솔 출력 부분부터 내용 설명을 시작을 해주셨다.
+현재는 Eclipse 수업을 진행하고 있다.</p>
+</blockquote>
+
+<ul>
+  <li>
+    <p>콘솔 출력 제어</p>
+
+    <ul>
+      <li>System.out. : 표준 출력장치 ( 모니터 콘솔 )</li>
+      <li>println() : 지정된 장치에 결과 출력하는 매서드, ln : line <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>( 출력후 줄바꿈)</li>
+      <li>print() : 내용을 출력 후 다음 줄로 이동하지 않고 다음 내용 출력</li>
+      <li>\t : 일정 간격만큼 칸을 띄어 주는 제어문자</li>
+      <li>\n : 줄바꿈을 제공해주는 제어문자&gt;</li>
+    </ul>
+  </li>
+  <li>
+    <p>이클립스 단축키</p>
+
+    <ul>
+      <li>ctrl + s = &gt; 소스저장 단축키</li>
+      <li>ctrl + f11 = &gt; 이클립스 실행 단축키</li>
+    </ul>
+  </li>
+  <li>
+    <p>형태 우선 순위 <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote">2</a></sup></p>
+    <ul>
+      <li>숫자 + 숫자 ===&gt; 숫자</li>
+      <li>문자 + 숫자 ===&gt; 문자</li>
+      <li>숫자 + 문자 ===&gt; 문자</li>
+      <li>문자 + 문자 ===&gt; 문자</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="my-memo-️">My memo ✍️</h2>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$</span> <span class="nx">xcode</span><span class="o">-</span><span class="nx">select</span> <span class="o">--</span><span class="nx">install</span></code></pre></figure>
+
+<h1 id="2장-java-변수">2장 Java 변수</h1>
+
+<p>작성 중</p>
+
+<p><a href="https://insidestory.kr/20485">생각노트에서 원문 보기 🔗</a></p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>ln 이 line이라는 것으로 설명하셨다. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>괄호에 들어간 기준이며 우선순위를 잘 생각 해보아야한다. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

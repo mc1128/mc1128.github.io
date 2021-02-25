@@ -1,7 +1,7 @@
 {% if page.tags %}
   {% for tag in page.tags %}
     {% if site.data.tags contains tag %}
-<li class="catalogue-item" data-{{ tag }}>
+<div class="catalogue-item" data-{{ tag }}>
   <a href="{{ page.url | prepend: site.baseurl }}">
     {% if page.portfolio == true %}
     <img src="{{ page.main-img }}" class="catalogue-img" />
@@ -20,7 +20,7 @@
       </p>
     </div>
   </a>
-</li>
+</div>
     {% endif %}
   {% endfor %}
 {% endif %}

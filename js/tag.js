@@ -1,5 +1,5 @@
 $("[data-tag]").click((e) => {
-    currentTag = e.target.dataset.tag;
+    const currentTag = e.target.dataset.tag;
     filterByTagName(currentTag);
   })
   
