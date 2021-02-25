@@ -24,3 +24,5 @@ header-img: img/about.jpg
 {% endif %}
 {% endfor %}
 </ul>
+
+<script type="text/javascript" src="../js/tag.js"></script>
