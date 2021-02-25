@@ -9,9 +9,8 @@ author: 'Minchoel Hwang'
 post-header: true
 header-img: 'img/android-device.jpg'
 order: 1
-category: Study
-tags:
-  - Study
+category: study
+tags: [study]
 ---
 
 사실 Java의 기초적인 내용을 배워서 수업이 많이 어렵거나 따라가기 벅차거나 하지는 않았다. (~~전공자인데 어려워 하는게 이상할지도~~), 그래서 강사님이 설명해주시는 내용을 요약 정리를 하고, 다시한번 리마인딩하는 느낌으로 수업을 듣고있다.
@@ -46,6 +45,12 @@ tags:
 [^2]: 괄호에 들어간 기준이며 우선순위를 잘 생각 해보아야한다.
 
 ## My memo ✍️
+
+{% highlight js %}
+
+$ xcode-select --install
+
+{% endhighlight %}
 
 `PM`은 다방면, 비즈니스, 디자인, 엔지니어링 모두를 알아야 하고 그것은 `CEO`의 역할이라는 글. 디자이너가 꼭 PM이 될 필요는 없다. 하지만 이 글에 나오는 PM처럼 디자인해야 한다고 생각한다. 회사를 다니고, 다니지 않고를 떠나서 디자이너는 돈이 되는 디자인을 할 줄 알아야 한다. 내 디자인으로 무언가를 팔던가, 내 디자인 자체를 팔려면 비즈니스를 알아야 한다.
 

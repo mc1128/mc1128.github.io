@@ -1,11 +1,20 @@
 ---
 layout: default
-title: "Blog"
-description: 아주 가끔씩 관심 분야의 글을 올려요.
+title: 'Blog'
+description: 글을 정리 해두어요.
 main: true
 project-header: true
 header-img: img/about.jpg
 ---
+
+<script type="text/javascript" src="../js/tag.js"></script>
+
+{% for tag in site.data.tags %}
+<span class="tag" data-tag="{{tag}}">
+{{ site.data.format[tag] }}
+</span>
+
+{% endfor %}
 
 <ul class="catalogue">
 {% assign sorted = site.pages | sort: 'order' | reverse %}

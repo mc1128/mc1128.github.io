@@ -1,0 +1,98 @@
+I"�<div class="catalogue">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+<li class="catalogue-item">
+  <a href="/project/highlight-img-share/">
+    
+    <img src="img/ridi-highlight.jpg" class="catalogue-img" />
+     
+    
+    
+    <!-- 태그 별 분류 -->
+    
+
+    
+      <span class="tag" data-tag="diary">
+      Diary
+      </span>
+    
+      <span class="tag" data-tag="study">
+      Study
+      </span>
+    
+    
+    <p class="catalogue-type">RIDIBOOKS</p>
+    <div class="catalogue-info transition">
+      <h1 class="catalogue-title">이미지로 멋지게 형광펜 공유하기</h1>
+      <p class="catalogue-sub">마음에 드는 전자책 속 문장을 멋지게 공유하는 방법</p>
+      <p class="catalogue-body">
+        # Overview ## 바야흐로 공유의 시대 집에서 컴퓨터만 쓰던 시절을 지나 언제 어디서든 온라인이 가능한 시대가 되었다. 사시사철 온라인이 가능해짐에 따라 언제 어디서든 디지털...
+      </p>
+    </div>
+  </a>
+</li>
+</div>
+
+<li class="catalogue-item">
+  <a href="/project/store-improvement/">
+    
+    <img src="img/store_improvement.jpg" class="catalogue-img" />
+     
+    
+    
+    <!-- 태그 별 분류 -->
+    
+
+    
+      <span class="tag" data-tag="diary">
+      Diary
+      </span>
+    
+      <span class="tag" data-tag="study">
+      Study
+      </span>
+    
+    
+    <p class="catalogue-type">RIDIBOOKS</p>
+    <div class="catalogue-info transition">
+      <h1 class="catalogue-title">리디북스 서점 홈 개편</h1>
+      <p class="catalogue-sub">오랫동안 홈에 존재해 온 문제들을 해결하기 위한 프로젝트</p>
+      <p class="catalogue-body">
+        # Overview [리디북스 서점](https://ridibooks.com/)은 전자책부터 웹툰, 웹소설까지 다양한 장르의 콘텐츠를 탐색하고 구매할 수 있는 공간이다. 특히 일반, 로맨스, 판타지, 만화, BL 모든 장르 홈은...
+      </p>
+    </div>
+  </a>
+</li>
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+:ET

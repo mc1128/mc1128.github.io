@@ -35,6 +35,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
 # category_list
-categories: [test]
+# category_list: [test, diary, study]

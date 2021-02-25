@@ -9,9 +9,8 @@ author: 'Minchoel Hwang'
 post-header: true
 header-img: 'img/android-device.jpg'
 order: 1
-category: Diary
-tags:
-  - Diary
+category: diary
+tags: [diary]
 ---
 
 # 낯선 생활, 낯선 환경

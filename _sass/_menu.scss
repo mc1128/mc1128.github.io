@@ -12,3 +12,25 @@
   height: 5px;
   z-index: 9000;
 }
+
+.tag {
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 0.75rem;
+  color: #fff;
+  background-color: $emoji-blue;
+  opacity: 0.6;
+  cursor: pointer;
+  line-height: 2;
+  transition: 0.5s;
+}
+
+::selection {
+  color: #fff;
+  background: #426cb4;
+  text-shadow: none;
+}
+
+.tag.selected {
+  opacity: 1;
+}
