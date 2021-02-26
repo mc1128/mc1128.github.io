@@ -9,7 +9,7 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: 'img/Nyang.jpg'
+header-img: 'img/Nyang.JPG'
 main-img: 'img/Nyang-View.jpg'
 role-title: '네이버 확장앱'
 role-specific: '사용 기술 : JS, HTML, CSS '

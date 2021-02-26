@@ -9,7 +9,7 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: 'img/birdie_main.jpg'
+header-img: 'img/birdie_main.JPG'
 main-img: 'img/birdie_ballcase.jpg'
 role-title: '페이지 추가 및 수정'
 role-specific: '사용 기술 : JS, PHP, HTML, CSS '
@@ -51,7 +51,7 @@ order: 1
 
 원래는 볼라이너부분이 나오고 연결되게 메인페이지를 구성하였는데, 볼라이너와 볼케이스부분을 화면에 반으로 가르고 버튼을 넣어 연결되게끔 작업을 부탁받았다.
 
-![메인페이지](img/birdie_main.jpg){: width="100%" height="100%"}
+![메인페이지](img/birdie_main.JPG){: width="100%" height="100%"}
 
 <figcaption>메인페이지 화면</figcaption>
 
