@@ -20,7 +20,17 @@ layout: default
             {{ page.subtitle }}
         </h2>
     </div>
-    
+ 
+<!--블로그 상단 정보-->
+{% if page.blog == true %}
+<article class="portfolio-info">
+    <div>
+        <span class="info-title">Date</span>
+        <p class="info-medium">{{ page.date }}</p>
+    </div>    
+</article>
+{% endif %}    
+
 <!--포트폴리오 상단 정보-->
     
     {% if page.portfolio == true %}
