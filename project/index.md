@@ -12,9 +12,7 @@ header-img: 'img/project_bg.jpg'
 {% assign sorted = site.pages | sort: 'order' | reverse %}
 {% for page in sorted %}
 {% if page.projects == true %}
-
-     {% include portfolio-list.html %}
-
+{% include portfolio-list.html %}
 {% endif %}
 {% endfor %}
 
