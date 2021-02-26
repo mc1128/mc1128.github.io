@@ -10,7 +10,7 @@ ridi: true
 portfolio: true
 post-header: true
 header-img: 'img/birdie_main.JPG'
-main-img: 'img/birdie_ballcase.jpg'
+main-img: 'img/birdie_ballcase.JPG'
 role-title: '페이지 추가 및 수정'
 role-specific: '사용 기술 : JS, PHP, HTML, CSS '
 team: 'SOLO'
@@ -39,7 +39,7 @@ order: 1
 
 기존에 있던 상품페이지와 유사하게 작업을 받았기에 html, css 레이아웃을 비슷하게 작성하면 되었으며, 사이트 내의 유튜브 영상, 이미지 스위프트, 영카트 페이지의 DB에 볼케이스를 넣어 색상을 클릭하면 선택한 색상의 볼케이스가 나오도록 JS를 작성하였다.
 
-![볼케이스 상품페이지 작업](img/birdie_check.jpg){: width="70%" height="70%"}
+![볼케이스 상품페이지 작업](img/birdie_check.JPG){: width="70%" height="70%"}
 
 <figcaption>색상을 누르면 색이 바뀌고 다른색상이 추가가 가능하다. 처음에 JS는 맞는데 색상이 안바뀌어 PHP파일이 어떻게 연결되있는지 찾는냐 애를 먹었다.</figcaption>
 
