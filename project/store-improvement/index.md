@@ -1,23 +1,25 @@
 ---
 layout: post
-author: "Jihye Leee"
-title:  "리디북스 서점 홈 개편"
-subtitle: "오랫동안 홈에 존재해 온 문제들을 해결하기 위한 프로젝트"
-type: "RIDIBOOKS"
+author: 'Jihye Leee'
+title: '리디북스 서점 홈 개편'
+subtitle: '오랫동안 홈에 존재해 온 문제들을 해결하기 위한 프로젝트'
+type: 'RIDIBOOKS'
 projects: true
 text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/header.jpg"
-main-img: "img/store_improvement.jpg"
-role-title: "프로덕트 디자이너"
-role-specific: "User Flows, Sketching, Wireframing, Visual Design, Interaction, Prototyping"
-team: "프로덕트 디자이너 1명, PM 1명, 엔지니어 4-5명"
-platforms: "Web"
-date: "Dec 2018 - Mar 2019"
+header-img: 'img/header.jpg'
+main-img: 'img/store_improvement.jpg'
+role-title: '프로덕트 디자이너'
+role-specific: 'User Flows, Sketching, Wireframing, Visual Design, Interaction, Prototyping'
+team: '프로덕트 디자이너 1명, PM 1명, 엔지니어 4-5명'
+platforms: 'Web'
+date: 'Dec 2018 - Mar 2019'
 order: 1
+tag: [test]
 ---
+
 # Overview
 
 [리디북스 서점](https://ridibooks.com/)은 전자책부터 웹툰, 웹소설까지 다양한 장르의 콘텐츠를 탐색하고 구매할 수 있는 공간이다. 특히 일반, 로맨스, 판타지, 만화, BL 모든 장르 홈은 사용자가 제일 많이 방문하는 페이지이기 때문에 리디북스에 있어서 얼굴과 같은 중요한 페이지다. 홈은 전체적인 구조를 바꾸지 않고 부분부분 개선해 왔기 때문에 크고 작은 문제들이 존재해 왔다.
