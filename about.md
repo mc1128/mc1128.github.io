@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "MinCheol Hwang"
-subtitle: "황민철"
-type: "About"
-author: "MinCheol Hwang"
+title: 'MinCheol Hwang'
+subtitle: '황민철'
+type: 'About'
+author: 'MinCheol Hwang'
 permalink: /about/
 post-header: true
 header-img: img/about.jpg
@@ -17,10 +17,10 @@ header-img: img/about.jpg
 
 # EPILOGUE
 
-### 마음가짐
+### 해야할 것.
 
-- 매일 꾸준히 나아가자.
-- 내용을 기록해두자.
-- 나를 믿자
+- 프로그래머스 JS로 한문제 씩 풀어보기.
+- 수업이나 학습내용 기억해두기.
+- 나를 믿기.
 
 <br />

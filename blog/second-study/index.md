@@ -8,7 +8,7 @@ text: true
 author: 'Minchoel Hwang'
 post-header: true
 header-img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80'
-order: 1
+order: 2
 category: study
 tags: [study]
 date: 2021-03-02
