@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '11~12일차 교육 내용'
-subtitle: 'Java Inheritance, Overriding'
+subtitle: 'Java Inheritance, Overriding, API, Interface'
 type: 'Study'
 blog: true
 text: true
@@ -141,3 +141,5 @@ date: 2021-03-11
 - 인터페이스들끼리 상속을 받을 때는 extends 키워드를 사용한다.
 - 일반 클래스에서 상속은 단일 상속만 가능하다.
 - 인터페이스에서는 다중 상속이 가능하다.
+
+# 11장

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '9~10일차 교육 내용'
-subtitle: 'Java Class'
+subtitle: 'Java Class, abstract class'
 type: 'Study'
 blog: true
 text: true
@@ -14,7 +14,7 @@ tags: [study]
 date: 2021-03-09
 ---
 
-> 객체(Object)와 클래스(Class)에 대한 정리
+> 객체(Object), 클래스(Class), 추상클래스(abstract class)에 대한 정리
 
 # 7장 객체와 클래스
 
@@ -218,6 +218,36 @@ date: 2021-03-09
 - setter() / getter() 메서드로 접근 가능.
   - setter() : 지정자 메서드
   - getter() : 획득자 메서드
+
+### 추상 클래스(abstract class)란?
+
+- 추상메서드를 포함하는 클래스
+- 추상메서드는 본체가 없는 메서드
+  {% highlight js %}
+
+  // { } 가 없다.
+  void exam();
+
+{% endhighlight %}
+
+- 클래스 앞에 abstract 키워드가 온다.
+- 추상메서드를 재정의하지 않으면 error가 발생한다.[^7]
+- 추상클래스는 객체생성이 불가능하다.
+- 추상클래스는 추상매서드를 가진 클래스를 말한다. 물론 일반 멤버(맴버변수, 맴버메서드)를 가질 수 있다. 하지만 한 개 이상의 추상메서드는 반드시 존재해야한다.
+  {% highlight js %}
+
+      [접근 제한] abstract class 클래스명 { }
+
+{% endhighlight %}
+
+<figcaption>응용프로그램에서 설계와 구현 부분을 분리해서 작업 시 사용된다.</figcaption>
+
+### 추상 클래스 error 발생 해결방법
+
+- 자식클래스에서 추상메서드를 재정의
+- 자식클래스에서 재정의하지 않는 경우, 자식클래스 이름 앞에 abstract 키워드를 붙여야한다.
+
+[^7]: 추상메서드 재정의 강제성.
 
 # 마무리
 
