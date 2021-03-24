@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '11~12일차 교육 내용'
-subtitle: 'Java Inheritance, Overriding, API, Interface'
+subtitle: 'Java Inheritance, Overriding, API, Interface, polymorphism'
 type: 'Study'
 blog: true
 text: true
@@ -14,7 +14,7 @@ tags: [study]
 date: 2021-03-11
 ---
 
-# 9장 상속과 오버라이딩
+# 8장 상속과 오버라이딩
 
 ### 상속(inheritance)?
 
@@ -98,7 +98,7 @@ date: 2021-03-11
 
 ---
 
-# 10장 API(Application Programning Interface) 와 인터페이스(Interface)
+# 9장 API(Application Programning Interface) 와 인터페이스(Interface)
 
 ### API란?
 
@@ -142,4 +142,38 @@ date: 2021-03-11
 - 일반 클래스에서 상속은 단일 상속만 가능하다.
 - 인터페이스에서는 다중 상속이 가능하다.
 
-# 11장
+<br/>
+
+---
+
+# 10장 다형성(Polymorphism)과 패키지(Packages)
+
+### 다형성이란?
+
+- 객체지향 프로그램 4대 특징 중 하나. - 상속과 연관성이 많다.
+- 다형성의 사전적 의미 - 같은 종의 생물이지만 모습이나 특징이 고유한 성질을 가지고 있는 것을 말한다.
+- 여러 가지 모습으로 해석될 수 있는 형태를 의미한다.
+- 여러 가지 형태를 가질 수 있는 능력을 말한다.
+- 하나의 메서드나 클래스가 있을 때 이것들이 다양한 방법으로 동작하는 것.
+- 하나의 사물(객체)을 다양한 타입으로 선언하고 이를 이용할 수 있는 성질.
+- 하나의 참조변수로 여러 타입의 객체를 참조할 수 있는 것.
+- 조상타입의 참조변수로 자손타입의 객체를 다룰 수 있는 것이 다형성의 특징.
+- 단, 조상클래스에서 상속을 받은 멤버들만 접근할 수 있고, 자손클래스에서 만들어진 멤버들에는 접근할 수 없음.[^9]
+- 조상타입의 참조변수로 자손타입의 인스턴스를 참조할 수 있지만, 반대로 자손타입의 참조변수로 조상타입의 인스턴스를 참조할 수는 없다.
+
+### instanceof 연산자
+
+- 참조변수가 참조하고 있는 인스턴스의 실제 타입을 알아보는 연산자.
+- 연산결과로 boolean 값(true / false)를 반환한다.
+
+{% highlight js %}
+
+참조변수 instanceof 클래스명(타입)
+
+{% endhighlight %}
+
+<figcaption>if(a instanceof Car) : 참조변수 a의 타입이 Car 클래스 타입인지를 체크한다. ==> true이면 Car 인스턴스 타입이고 false이면 Car 인스턴스 타입이 아니다.</figcaption>
+
+### 패키지란?
+
+[^9]: 조상타입의 참조변수로 자식의 멤버를 호출.
