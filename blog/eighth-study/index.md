@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '13~14일차 교육 내용'
+title: '13~15일차 교육 내용'
 subtitle: 'Exception, UtilClass, FileIO '
 type: 'Study'
 blog: true
@@ -155,3 +155,12 @@ Math.min(num1, num2)
 - checked 방식의 예외 처리가 적용된다.
 - java의 입출력은 단방향성 ==> 한쪽 방향으로만 입력되고 출력이 된다.
 - FIFO(First In First Out) : 먼저 입력되어 먼저 출력이 된다.
+
+[FileIO](https://m.blog.naver.com/PostView.nhn?blogId=pjok1122&logNo=221505593049&proxyReferer=https:%2F%2Fwww.google.com%2F)에 대한 자세한 설명과 예제
+
+---
+
+# 마무리
+
+사실 FileIO는 다음 차시에서 GUI 스윙을 배우기 전에 배우지만, 다음 포스팅에서 GUI로 된 글로만 작성하고자 예외처리와 유틸클래스 사이에 넣게 되었다.
+GUI만 하면 자바의 기본은 그래도 다 배웠다고 할 수 있다.
