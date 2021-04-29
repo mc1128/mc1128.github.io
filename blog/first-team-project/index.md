@@ -2,7 +2,7 @@
 layout: post
 title: '첫번째 자바 팀 프로젝트'
 subtitle: 'First JAVA Team Project'
-type: 'Team Project'
+type: 'Team'
 blog: true
 text: true
 author: 'Minchoel Hwang'
