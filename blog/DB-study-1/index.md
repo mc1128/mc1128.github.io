@@ -2,7 +2,7 @@
 layout: post
 title: '오라클 DB 정리'
 subtitle: 'Oracle DB study'
-type: 'Oracle DB'
+type: 'study'
 blog: true
 text: true
 author: 'Minchoel Hwang'
