@@ -29,7 +29,9 @@ date: 2021-03-26
 그리고 주제를 새로운 게임으로 생각하기보다 기존에 있는 게임을 보고 분석하여 어떻게 코딩할지를 고민하고 제작하는 과정이 더욱 중요하다고 생각하여 클론 코딩을 진행하였다.
 
 그렇게 정한 클론 게임 `WARRIORS - Rise to GLORY`
-![Warriors 주사위 게임](https://scontent-ssn1-1.xx.fbcdn.net/v/t1.18169-9/20800003_1971312596421205_8867966161782092355_n.png?_nc_cat=106&ccb=1-3&_nc_sid=e3f864&_nc_ohc=KwJDx1PSn4EAX-T_WO1&_nc_ht=scontent-ssn1-1.xx&oh=2bab5c7fe7a7f91cce0314ada04e92a8&oe=60933218)
+<br/>
+
+![Warriors 주사위 게임](https://cdn.akamai.steamstatic.com/steam/apps/582330/header.jpg?t=1611860396)
 
 <figcaption>워리어스 게임에 나온 미니게임인 주사위 게임을 만들어보자.</figcaption>
 
