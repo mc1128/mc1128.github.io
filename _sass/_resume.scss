@@ -116,3 +116,73 @@ section.skill {
   animation-duration: 0.6s;
   animation-timing-function: ease-in-out;
 }
+
+div.resume-info {
+  position: relative;
+
+  svg {
+    width: 24px;
+    fill: $emoji-blue;
+    position: absolute;
+  }
+}
+
+//이력서 폼
+.self-info {
+  margin-top: -30px;
+  margin-bottom: 70px;
+  .workplace {
+    width: 100%;
+    padding: 20px 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.07);
+
+    .workplace-name {
+      font-family: $san-serif;
+      font-size: 20px;
+      font-weight: 700;
+      width: 42%;
+
+      @media (max-width: $break-small) {
+        float: none;
+        width: 100%;
+      }
+    }
+
+    a:link {
+      background-image: linear-gradient(white -1000%, currentcolor 2000%);
+      background-position: 0 0.95em;
+      background-repeat: repeat-x;
+    }
+
+    .work-sub-info {
+      margin-top: 10px;
+      color: $default-tint;
+      font-size: 16px;
+      font-family: $source;
+      font-weight: 400;
+    }
+
+    .work-info {
+      margin-top: 10px;
+      display: inline-block;
+      word-spacing: 0.2em;
+    }
+
+    svg {
+      width: 24px;
+      float: right;
+    }
+  }
+
+  .workplace:last-child {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  }
+
+  .p_margin {
+    margin-top: 7px;
+  }
+
+  img {
+    max-width: 70%;
+  }
+}
